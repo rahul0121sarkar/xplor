@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+nav{
+  padding: 3px 3%;
+}
+
+.at>li{
+  padding-left: 33px;
+}
+
+.banner{
+  margin: 0px 3%;
+}
+
+
+.header-content{
+ backdrop-filter: blur(8px);
+ border-radius: 12px;
+ padding: 20px;
+}
+
+.header-content h1,p{
+  margin-top: 10px;
+}
+
+
+.demo-btn{
+  margin-top: 44px;
+  background-color: #4F8A8B;
+  color: white;
+  border-radius: 18px;
+  padding: 8px 22px;
+  margin-right:12px;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+}
+.demo-btn:hover{
+  box-shadow: 10px 10px 8px black;
+  font-weight: 700;
+
+}
+
+
+.demo-btn1{
+  border: 1px solid #4F8A8B;
+  border-radius: 18px;
+  padding: 8px 22px;
+  color: #4F8A8B;
+  transition: all 0.3s ease-in;
+
+}
+
+.demo-btn1:hover{
+  box-shadow: 10px 10px 8px black;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+
+.offercart{
+  padding: 48px 1%;
+}
+
+.tail{
+  padding-bottom: 34px;
+}
+
+.smooth-fade{
+  padding: 8px;
+}
+
+.offer-btn{
+  padding: 3px 18px;
+  margin-top: 4px;
+}
+
+
+
+
+.swiper-box{
+  padding:9px;
+  border-radius:13px;
+  border-color: lightgrey;
+}
+
+
+.swiper-elem-content{
+  padding-left: 25px;
+}
+
+.client-list{
+  margin: 45px 1%;
+}
+
+.faq-cart{
+  margin: 14px 9%;
+}
+
+.faq-btn{
+  padding: 19px 3%;
+  cursor: pointer;
+}
+
+.faq-ans{
+  padding-left:30px;
+  padding-bottom: 16px;
+}
+
+.portfolio{
+  margin-top: 32px;
+}
+
+.portfolio-btn{
+  padding: 10px 9px;
+}
+
+.ent-card{
+  padding: 16px;
+}
+
+.ent-title{
+  margin-bottom: 12px;
+  margin-left: 12px;
+}
+
+.ent-sec{
+  padding: 13px 13px;
+}
+
+.card-detail{
+  padding: 12px;
+}
+
+.card-view{
+  margin: 0 4%;
+}
+
+.content-body{
+  padding: 12px;
+}
