@@ -9,6 +9,8 @@ import Portfolio from './Header/Portfolio'
 import Blog from './Header/Blog' 
 import Youtube from './Header/Youtube'
 import Contactform from './Header/Contactform'
+import Pages from './Header/Pages'
+
 // import Blogpage1 from './blogpage/blogpage1'
 
 
@@ -25,7 +27,7 @@ const index = () => {
       <Youtube/>
       <Blog/>
       <Contactform/>
-     
+      <Pages/>
   
     </>
   )

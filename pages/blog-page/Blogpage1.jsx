@@ -1,16 +1,17 @@
 import React from 'react'
-// import Header from '../Header/Header';
+import { CalendarDays } from 'lucide-react';
+
 const Blogpage1 = () => {
   return (
     <>
-    {/* <Header/> */}
-    <div className='w-full  bg-white shadow-lg'>
-        <div className='mb-6 w-full h-[70vh]'>
-            <img src="./robo.webp" alt="" className='w-full h-full object-cover'/>
+   
+    <div className='w-full'>
+        <div className='mb-6 w-full h-[90vh]'>
+            <img src="/ai.jpg" alt="" className='w-full h-full object-top object-cover ' />
         </div>
 
-        <div className='text-sm px-6 text-gray-500 flex items-center space-x-2'>
-            <span>📅 October 10, 2019</span>
+        <div className='text-sm px-6 text-gray-500 flex items-center gap-2'>
+        <CalendarDays  size={23}/>  <p className='my-0'> October 10, 2019</p>
         </div>
 
         <h1 className='text-3xl px-6 font-bold mt-2'>
