@@ -5,7 +5,7 @@ const Blogdetails = () => {
     const blogpost = 
 [
     {
-        image:"/ai.jpg",
+        image:"/blogimages/Blogs1.jpg",
         blogs: `
         <h1>3D Animation for Industrial Marketing: How It Simplifies Complex Products</h1>
         <p>Struggling to Showcase Complex Industrial Products? Here’s the Solution!</p>
@@ -52,7 +52,7 @@ const Blogdetails = () => {
         `
     },
     {
-        image:"/vr.jpg",
+        image:"/blogimages/Blogs2.jpg",
         blogs:
         `
             <h1>Why Immersive 3D & XR Solutions Are the Future of Industrial Marketing</h1>
@@ -84,7 +84,7 @@ const Blogdetails = () => {
     },
   
     {
-        image:"/demostration.jpg",
+        image:"/blogimages/Blogs3.jpg",
         blogs:`
                 <h1>The Hidden Costs of Sticking to Traditional Product Demonstrations  </h1>
                 <p>Many manufacturers and heavy machinery companies still rely on traditional product demonstrations—but at what cost? While in-person demos have been the norm, they come with hidden expenses and inefficiencies that impact the bottom line. Let’s break it down:</p>
@@ -123,7 +123,7 @@ const Blogdetails = () => {
  `
     },
     {
-        image:"/virtualplant.webp",
+        image:"/blogimages/Blogs4.jpg",
         blogs:`
         <h1>The Future of Virtual Plant Tours: How Immersive Industry Experiences Boost Sales</h1>
         <p>Imagine giving your clients a full-access tour of your manufacturing plant—without them ever setting foot inside. Virtual Plant Tours, powered by Immersive 3D & XR technology, are changing how the heavy machinery and manufacturing industries engage customers, close deals, and train employees.</p>
